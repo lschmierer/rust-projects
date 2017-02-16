@@ -13,4 +13,4 @@ This is a little list of potential Rust projects I would like to implement if I 
 ### real-time beat detection
 * Real-time beat detection Rust crate.
 * http://archive.gamedev.net/archive/reference/programming/features/beatdetection/
-* some [bachelor thesis](https://github.com/robharper/beat-detect) that might be intresting
+* some [bachelor thesis](https://github.com/robharper/beat-detect) that might be interesting
