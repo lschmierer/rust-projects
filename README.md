@@ -1,5 +1,5 @@
 # rust-projects
-This is a little list of potential Rust projects I would like to implement if I had some more time.
+This is a list of potential Rust projects I would like to work in the future when I have some time.
 * [ACN library](#acn)
 * [real-time beat detection library](real-time-beat-detection)
 
